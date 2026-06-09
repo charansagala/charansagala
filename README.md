@@ -13,4 +13,3 @@
 🚀 Building impactful projects and continuously improving my skills
 
 📈 Interested in AI, Data Science, and Scalable Web Applications
-[![Charan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=charansagala)](https://github.com/ashutosh00710/github-readme-activity-graph)
