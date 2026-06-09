@@ -13,11 +13,3 @@
 🚀 Building impactful projects and continuously improving my skills
 
 📈 Interested in AI, Data Science, and Scalable Web Applications
-
-## 🎯 2026 Goals
-
-- Solve 500+ DSA Problems
-- Build 5 Full-Stack Projects
-- Learn Data Science & ML
-- Contribute to Open Source
-- Land a Software Development Internship
